@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/dir.png</file>
+        <file>resources/file.png</file>
+        <file>resources/setting.png</file>
+        <file>resources/task.png</file>
+        <file>resources/gridview.png</file>
+        <file>resources/listview.png</file>
+        <file>resources/prev.png</file>
+        <file>resources/next.png</file>
+        <file>resources/disk.png</file>
+    </qresource>
+</RCC>
